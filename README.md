@@ -41,8 +41,8 @@ Development of a robust image classifier capable of accurately distinguishing be
 
 ## Contributors
 
-- [Your Name](https://github.com/your_username)
-- [Contributor 2](https://github.com/contributor2)
+- [Kshitish Handa](https://github.com/Kshitish-H)
+
 
 ## License
 
